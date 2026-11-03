@@ -8,7 +8,7 @@ Componentes:
 26014123-2 - gustavo tristao
 26013927-2 - natan da silva
 26013158-2 - jackson rodrigues
-26014469-2-2 - rafael baliski
+26014469-2 - rafael baliski
 Data: 01 de Novembro de 2026
 Descritivo: Array Associativo: criar um array de produtos com "nome" e "preço".
 *******************************************************************************/
